@@ -1,0 +1,18 @@
+{
+  "quokka.compactMessageOutput": true,
+  "rest-client.decodeEscapedUnicodeCharacters": true,
+  "rest-client.disableHighlightResonseBodyForLargeResponse": true,
+  "quokka.showOutputOnStart": true,
+  "quokka.darkTheme.error.decorationAttachmentRenderOptions": {
+    "border": null,
+    "borderColor": null,
+    "fontStyle": null,
+    "fontWeight": null,
+    "textDecoration": null,
+    "color": "#fe536a",
+    "backgroundColor": null,
+    "margin": "1.2em",
+    "width": null,
+    "height": null
+  }
+}
